@@ -9,3 +9,4 @@ Repository ini digunakan sebagai sayembara pencarian volunteer untuk pembuatan a
 Berikut daftar Volunteer yang diterima:
 
 * Oon Arfiandwi, [oo.or.id](https://oo.or.id).
+* Imam Arief Al Baihaqy, [Linkedin](https://www.linkedin.com/in/imam-arief-al-baihaqy-aaba8a221/).
